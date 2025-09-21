@@ -1,0 +1,3 @@
+/home/diogodam/ray/build-linux/CMakeFiles/Game.dir
+/home/diogodam/ray/build-linux/CMakeFiles/edit_cache.dir
+/home/diogodam/ray/build-linux/CMakeFiles/rebuild_cache.dir
