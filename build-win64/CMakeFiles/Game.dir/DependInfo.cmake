@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/diogodam/ray/main.cpp" "CMakeFiles/Game.dir/main.cpp.obj" "gcc" "CMakeFiles/Game.dir/main.cpp.obj.d"
+  "/home/diogodam/ray/src/Player.cpp" "CMakeFiles/Game.dir/src/Player.cpp.obj" "gcc" "CMakeFiles/Game.dir/src/Player.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

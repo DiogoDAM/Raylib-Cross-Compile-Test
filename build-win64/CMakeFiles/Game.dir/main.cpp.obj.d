@@ -60,4 +60,40 @@ CMakeFiles/Game.dir/main.cpp.obj: /home/diogodam/ray/main.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tr1/modified_bessel_func.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tr1/poly_hermite.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tr1/poly_laguerre.tcc \
- /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tr1/riemann_zeta.tcc
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tr1/riemann_zeta.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/ctime \
+ /usr/share/mingw-w64/include/time.h \
+ /usr/share/mingw-w64/include/sys/timeb.h \
+ /usr/share/mingw-w64/include/sec_api/sys/timeb_s.h \
+ /usr/share/mingw-w64/include/_timeval.h \
+ /usr/share/mingw-w64/include/pthread_time.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/vector \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/new_allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/new \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/exception.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/memoryfwd.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/stl_construct.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/stl_uninitialized.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/ext/alloc_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/alloc_traits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/stl_vector.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/initializer_list \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/stl_bvector.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/functional_hash.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/hash_bytes.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/refwrap.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/invoke.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/stl_function.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/backward/binders.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/range_access.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/vector.tcc \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/memory_resource.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/cstddef \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/stddef.h \
+ /usr/share/mingw-w64/include/stddef.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/uses_allocator.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/bits/uses_allocator_args.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/13-win32/include/c++/tuple \
+ /home/diogodam/ray/src/Player.h

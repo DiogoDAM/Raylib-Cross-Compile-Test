@@ -1,1 +1,1 @@
- /home/diogodam/ray/libs/raylib/libraylib.dll.a -lopengl32 -lgdi32 -lwinmm -ldsound -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ /home/diogodam/ray/libs/raylib/libraylib.dll.a -static -lopengl32 -lgdi32 -lwinmm -ldsound -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

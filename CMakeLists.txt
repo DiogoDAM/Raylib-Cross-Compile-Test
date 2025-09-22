@@ -3,7 +3,7 @@ project(meu_jogo)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Game main.cpp)
+add_executable(Game main.cpp src/Player.cpp)
 
 
 if(WIN32)
@@ -15,7 +15,7 @@ if(WIN32)
 	target_include_directories(Game PRIVATE ${RAYLIB_INCLUDE_DIR})
 	target_link_libraries(Game ${RAYLIB_LIBRARY})
 
-    target_link_libraries(Game opengl32 gdi32 winmm dsound)
+    target_link_libraries(Game -static opengl32 gdi32 winmm dsound)
 elseif(UNIX AND NOT APPLE)
     message(STATUS "Compile to Linux")
 
